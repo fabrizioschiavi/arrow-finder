@@ -6,6 +6,6 @@ These docs help you to find the arrows you need more quickly:
 
 Using [PragmataPro](http://www.fsd.it/fonts/pragmatapro.htm) since v_0.822 you can see this:
 
-<img src="http://www.fsd.it/fonts/pragmatapro/PragmataPro_Arrows_Finder.png" alt="Arrows finder set in PragmataPro font">
+<img src="PragmataPro_Arrows_Finder.png" alt="Arrows finder set in PragmataPro font">
   
 Enjoy!
