@@ -8,7 +8,7 @@ These docs help you to find the arrows you need more quickly:
 Hosted at [becca.ooo/pragmata/arrows](https://becca.ooo/pragmata/arrows/) for
 easy viewing.
 
-Using [PragmataPro](http://www.fsd.it/fonts/pragmatapro.htm) since v_0.822 you can see this:
+Using [PragmataPro](https://www.fsd.it/shop/fonts/pragmatapro/) since v_0.822 you can see this:
 
 <img src="PragmataPro_Arrows_Finder.png" alt="Arrows finder set in PragmataPro font">
 
